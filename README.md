@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikki1098&label=Profile%20views&color=0e75b6&style=flat" alt="nikki1098" /> </p>
 
-- 🔭 I’m currently working on [push_swap](https://github.com/Nikki1098/push_swap)
+- 🔭 I’m currently working on [minishell](https://github.com/Nikki1098/minishell)
 
 - 🌱 I’m currently learning **About sorting algorithms**
 
